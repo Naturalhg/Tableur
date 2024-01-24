@@ -17,8 +17,16 @@ $ make
 $ java -jar Tableur.java
 ```
 
+## Feedback
+
+Si vous avez des retours, contactez moi à cette adresse : nolan.toussaint77@gmail.com
+
 ## Auteurs
 
 - [@Nolan](https://dwarves.iut-fbleau.fr/gitiut/toussain)
 - [@Lucile](https://dwarves.iut-fbleau.fr/gitiut/pereiral)
 - [@Firmin](https://dwarves.iut-fbleau.fr/gitiut/ndacleud)
+
+## License
+
+[GNU GPL License](LICENSE)
