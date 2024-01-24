@@ -1,7 +1,7 @@
-# SAE32_2023
+# Tableur
 
 SAÉ DEV 3.2 : Petit tableur<br>
-À rendre le 14 janvier 2024 à 23h59
+À rendre le 14 janvier 2024 avant 23h59
 
 ## Instructions
 
