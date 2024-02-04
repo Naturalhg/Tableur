@@ -21,7 +21,7 @@ $ java -jar Tableur.java
 
 Si vous avez des retours, contactez moi à cette adresse : nolan.toussaint77@gmail.com
 
-## Auteurs
+## Authors
 
 - [@Nolan](https://github.com/Naturalhg/)
 - [@Lucile](https://dwarves.iut-fbleau.fr/gitiut/pereiral)
