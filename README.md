@@ -3,7 +3,9 @@
 SAÉ DEV 3.2 : Petit tableur<br>
 À rendre le 14 janvier 2024 avant 23h59
 
-Ce projet a été réalisé dans le cadre de mes études avec deux autres élèves. Le but de ce projet est de créer un tableur de 9 cases sur 9 cases pouvant contenir des formules préfixes comprenant des opérandes(+,-,*,/), des nombres et des références à d'autres cellules (A2, C8,...). Si une formule n'est pas calculable (division par 0, formule non calculable, référence à une cellule vide, référence circulaire des cellules,...), une erreur adaptée s'affichera telle que "!SYNTAX" pour une formule infixe (1+1).
+Ce projet a été réalisé dans le cadre de mes études avec deux autres élèves.
+Le but de ce projet est de créer un tableur de 9 cases sur 9 cases pouvant contenir des formules préfixes comprenant des opérandes(+,-,*,/), des nombres et des références à d'autres cellules (A2, C8,...). 
+Si une formule n'est pas calculable (division par 0, formule non calculable, référence à une cellule vide, référence circulaire des cellules,...), une erreur adaptée s'affichera telle que "!SYNTAX" pour une formule infixe (1+1).
 
 Un exemple concret de formule calculable est : <br>
   \* / 10 2 * 2 5<br>
