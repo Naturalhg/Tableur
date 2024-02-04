@@ -17,12 +17,12 @@ Avant tout, il faut récupérer chacun des fichiers et dossiers de ce projet dan
 Pour se faire, il est possible de télécharger l'entièreté du projet en cliquant sur l'icône vert "<> Code" en haut de cette page, puis "Download ZIP" dans "Local".
 
 Pour lancer le programme, il suffit d'effectuer les deux commandes suivantes dans un terminal ayant un interpréteur java (VsCode par exemple) et en se trouvant dans le terminal, dans le répertoire qui contient le makefile :
-
-    $ make
-
-
-    $ java -jar Tableur.java
-
+```
+$ make
+```
+```
+$ java -jar Tableur.java
+```
 
 ## Feedback
 
