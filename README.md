@@ -7,7 +7,7 @@ Ce projet a été réalisé dans le cadre de mes études avec deux autres élèv
 
 Un exemple concret de formule calculable est : <br>
   \* / 10 2 * 2 5<br>
-Qui équivaut à :<br>
+Qui est équivalent à :<br>
 (10/2) * (2*5) = 50
 
 ## Instructions
